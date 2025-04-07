@@ -1,6 +1,6 @@
-# 🧹 Task 1: Data Cleaning and Preprocessing
+# Task 1: Data Cleaning and Preprocessing
 
-## 📌 Objective
+## Objective
 Clean and prepare a raw dataset containing missing values, duplicates, and inconsistent formats using **Python (Pandas)** or **Excel**.
 
 ---
@@ -12,12 +12,12 @@ Clean and prepare a raw dataset containing missing values, duplicates, and incon
 
 ---
 
-## 📂 Dataset
+## Dataset
 Dataset used: ** Netflix Movies and TV Shows **
 
 ---
 
-## 🔧 Steps Performed
+## Steps Performed
 
 ### 1. **Checked Schema**
 - Used `df.info()` and `df.dtypes` to inspect column names, null counts, and data types.
