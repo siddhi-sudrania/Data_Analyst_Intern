@@ -5,7 +5,7 @@ Clean and prepare a raw dataset containing missing values, duplicates, and incon
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - Python (pandas)
 - Jupyter Notebook / VS Code
 - Excel (optional)
