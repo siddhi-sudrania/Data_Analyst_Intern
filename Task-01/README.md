@@ -13,7 +13,7 @@ Clean and prepare a raw dataset containing missing values, duplicates, and incon
 ---
 
 ## Dataset
-Dataset used: ** Netflix Movies and TV Shows **
+Dataset used: **Netflix Movies and TV Shows**
 
 ---
 
