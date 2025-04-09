@@ -48,4 +48,4 @@ To explore the dataset and extract meaningful business insights through well-des
 ---
 
 ## 🖼 Screenshots
-All key visuals have been exported as screenshots and added to the - [screenshots](https://github.com/siddhi-sudrania/Data_Analyst_Intern/Task-02/blob/main/ss.png) folder.
+All key visuals have been exported as screenshots and added to the - ![screenshots](https://github.com/siddhi-sudrania/Data_Analyst_Intern/blob/main/Task-02/ss.png) folder.
