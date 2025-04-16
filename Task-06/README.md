@@ -15,3 +15,11 @@ Concepts Used
 GROUP BY with YEAR and MONTH
 Aggregate functions: SUM, COUNT
 Sorting with ORDER BY
+---
+![](https://github.com/siddhi-sudrania/Data_Analyst_Intern/blob/main/Task-06/screenshots/ss1.png)
+---
+![](https://github.com/siddhi-sudrania/Data_Analyst_Intern/blob/main/Task-06/screenshots/ss2.png)
+---
+![](https://github.com/siddhi-sudrania/Data_Analyst_Intern/blob/main/Task-06/screenshots/ss3.png)
+---
+![](https://github.com/siddhi-sudrania/Data_Analyst_Intern/blob/main/Task-06/screenshots/ss4.png)
