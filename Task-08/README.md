@@ -36,6 +36,8 @@ To create a clean and interactive dashboard that shows:
 4. *Stacked Column Chart* – Profit by Category
 
 ---
+![](https://github.com/siddhi-sudrania/Data_Analyst_Intern/blob/main/Task-08/ss.png)
+---
 
 ## 🎛 Interactive Features
 
